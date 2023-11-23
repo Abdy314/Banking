@@ -6,3 +6,5 @@ signing in into an existing account,
 Depositing and Withdrawing money
 
 The program uses an SQL database to store account information 
+
+The program needs the database to be hosted for it to work
